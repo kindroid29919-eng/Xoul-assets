@@ -1,0 +1,14 @@
+[
+  {
+    "id": "common_sword_001",
+    "name": "Rusty Sword",
+    "type": "swords",
+    "rarity": "common",
+    "stats": {
+      "attack": 4,
+      "speed": 1
+    },
+    "icon": "icons/weapon_types/sword.png",
+    "image": "weapons/common/swords/rusty_sword.png"
+  }
+]
