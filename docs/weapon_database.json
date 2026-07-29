@@ -1,56 +1,74 @@
 [
   {
+    "id": "legendary_sword_001",
+    "name": "Prototype Dragon",
+    "rarity": "legendary",
+    "type": "sword",
+    "stat": "atk",
+    "base_stat": 15,
+    "image": "weapons/legendary/swords/prototype_dragon.png"
+  },
+  {
+    "id": "legendary_sword_002",
+    "name": "Mythical Feather",
+    "rarity": "legendary",
+    "type": "sword",
+    "stat": "atk",
+    "base_stat": 15,
+    "image": "weapons/legendary/swords/mythical_feather.png"
+  },
+  {
     "id": "common_sword_001",
-    "name": "Basic Sword",
+    "name": "Stone Blade",
     "rarity": "common",
     "type": "sword",
     "stat": "atk",
     "base_stat": 3,
-    "image": "weapons/common/swords/basic_sword.png"
-  },
-  {
-    "id": "common_sword_002",
-    "name": "Curved Sword",
-    "rarity": "common",
-    "type": "sword",
-    "stat": "atk",
-    "base_stat": 2,
-    "image": "weapons/common/swords/curved_sword.png"
-  },
-  {
-    "id": "common_sword_003",
-    "name": "Long Sword",
-    "rarity": "common",
-    "type": "sword",
-    "stat": "atk",
-    "base_stat": 4,
-    "image": "weapons/common/swords/long_sword.png"
-  },
-  {
-    "id": "common_sword_004",
-    "name": "Twin Sword",
-    "rarity": "common",
-    "type": "sword",
-    "stat": "atk",
-    "base_stat": 2,
-    "image": "weapons/common/swords/twin_sword.png"
-  },
-  {
-    "id": "common_sword_005",
-    "name": "Wooden Sword",
-    "rarity": "common",
-    "type": "sword",
-    "stat": "atk",
-    "base_stat": 4,
-    "image": "weapons/common/swords/wooden_sword01.png"
+    "image": "weapons/common/swords/stone_blade001.png"
   },
   {
     "id": "rare_sword_001",
-    "name": "Iron Sword",
+    "name": "Steel Blade",
     "rarity": "rare",
     "type": "sword",
     "stat": "atk",
     "base_stat": 6,
-    "image": "weapons/rare/swords/iron_sword01.png"
+    "image": "weapons/rare/swords/steel_blade001.png"
+  },
+  {
+    "id": "epic_sword_001",
+    "name": "Diamond Blade",
+    "rarity": "epic",
+    "type": "sword",
+    "stat": "atk",
+    "base_stat": 9,
+    "image": "weapons/epic/swords/diamond_blade001.png"
+  },
+  {
+    "id": "common_sword_002",
+    "name": "Butcher's Blade",
+    "rarity": "common",
+    "type": "sword",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/swords/butchers_blade002.png"
+  },
+  {
+    "id": "rare_sword_002",
+    "name": "Warrior's Blade",
+    "rarity": "rare",
+    "type": "sword",
+    "stat": "atk",
+    "base_stat": 7,
+    "image": "weapons/rare/swords/warriors_blade002.png"
+  },
+  {
+    "id": "epic_sword_002",
+    "name": "Hero's Blade",
+    "rarity": "epic",
+    "type": "sword",
+    "stat": "atk",
+    "base_stat": 11,
+    "image": "weapons/epic/swords/heros_blade002.png"
   }
 ]
