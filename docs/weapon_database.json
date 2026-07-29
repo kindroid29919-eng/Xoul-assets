@@ -43,5 +43,14 @@
     "stat": "ATK",
     "base_stat": 4,
     "image": "weapons/common/swords/wooden_sword01.png"
+  },
+  {
+    "id": "rare_sword_001",
+    "name": "Iron Sword",
+    "rarity": "Rare",
+    "type": "Sword",
+    "stat": "ATK",
+    "base_stat": 6,
+    "image": "weapons/rare/swords/iron_sword01.png"
   }
 ]
