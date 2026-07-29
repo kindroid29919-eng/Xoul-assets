@@ -1,14 +1,47 @@
 [
   {
     "id": "common_sword_001",
-    "name": "Rusty Sword",
-    "type": "swords",
-    "rarity": "common",
-    "stats": {
-      "attack": 4,
-      "speed": 1
-    },
-    "icon": "icons/weapon_types/sword.png",
-    "image": "weapons/common/swords/rusty_sword.png"
+    "name": "Basic Sword",
+    "rarity": "Common",
+    "type": "Sword",
+    "stat": "ATK",
+    "base_stat": 3,
+    "image": "weapons/common/swords/basic_sword.png"
+  },
+  {
+    "id": "common_sword_002",
+    "name": "Curved Sword",
+    "rarity": "Common",
+    "type": "Sword",
+    "stat": "ATK",
+    "base_stat": 2,
+    "image": "weapons/common/swords/curved_sword.png"
+  },
+  {
+    "id": "common_sword_003",
+    "name": "Long Sword",
+    "rarity": "Common",
+    "type": "Sword",
+    "stat": "ATK",
+    "base_stat": 4,
+    "image": "weapons/common/swords/long_sword.png"
+  },
+  {
+    "id": "common_sword_004",
+    "name": "Twin Sword",
+    "rarity": "Common",
+    "type": "Sword",
+    "stat": "ATK",
+    "base_stat": 2,
+    "image": "weapons/common/swords/twin_sword.png"
+  },
+  {
+    "id": "common_sword_005",
+    "name": "Wooden Sword",
+    "rarity": "Common",
+    "type": "Sword",
+    "stat": "ATK",
+    "base_stat": 4,
+    "image": "weapons/common/swords/wooden_sword01.png"
   }
 ]
