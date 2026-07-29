@@ -63,6 +63,42 @@
     "image": "weapons/common/swords/wooden_sword01.png"
   },
   {
+    "id": "common_axe_001",
+    "name": "Double Axe",
+    "rarity": "common",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/axes/double_axe.png"
+  },
+  {
+    "id": "common_axe_002",
+    "name": "Hook Axe",
+    "rarity": "common",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 2,
+    "image": "weapons/common/axes/hook_axe.png"
+  },
+  {
+    "id": "common_axe_003",
+    "name": "Iron Hatchet",
+    "rarity": "common",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 5,
+    "image": "weapons/common/axes/iron_hatchet02.png"
+  },
+  {
+    "id": "common_axe_004",
+    "name": "Stone Hatchet",
+    "rarity": "common",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 2,
+    "image": "weapons/common/axes/stone_hatchet02.png"
+  },
+  {
     "id": "rare_sword_001",
     "name": "Steel Blade",
     "rarity": "rare",
