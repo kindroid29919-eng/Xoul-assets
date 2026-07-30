@@ -19,48 +19,57 @@
   },
   {
     "id": "common_sword_003",
-    "name": "NEW",
+    "name": "Basic Sword",
     "rarity": "common",
     "type": "sword",
     "stat": "atk",
-    "base_stat": 0,
+    "base_stat": 2,
     "image": "weapons/common/swords/basic_sword.png"
   },
   {
     "id": "common_sword_004",
-    "name": "NEW",
+    "name": "Curved Sword",
     "rarity": "common",
     "type": "sword",
     "stat": "atk",
-    "base_stat": 0,
+    "base_stat": 3,
     "image": "weapons/common/swords/curved_sword.png"
   },
   {
     "id": "common_sword_005",
-    "name": "NEW",
+    "name": "Long Sword",
     "rarity": "common",
     "type": "sword",
     "stat": "atk",
-    "base_stat": 0,
+    "base_stat": 4,
     "image": "weapons/common/swords/long_sword.png"
   },
   {
     "id": "common_sword_006",
-    "name": "NEW",
+    "name": "Twin Sword",
     "rarity": "common",
     "type": "sword",
     "stat": "atk",
-    "base_stat": 0,
+    "base_stat": 4,
     "image": "weapons/common/swords/twin_sword.png"
   },
   {
     "id": "common_sword_007",
-    "name": "NEW",
+    "name": "Wooden Sword",
     "rarity": "common",
     "type": "sword",
     "stat": "atk",
-    "base_stat": 0,
+    "base_stat": 2,
     "image": "weapons/common/swords/wooden_sword01.png"
+  },
+  {
+    "id": "common_sword_008",
+    "name": "Wooden Stick",
+    "rarity": "common",
+    "type": "sword",
+    "stat": "atk",
+    "base_stat": 1,
+    "image": "weapons/common/swords/wooden_stick.png"
   },
   {
     "id": "common_axe_001",
@@ -82,21 +91,138 @@
   },
   {
     "id": "common_axe_003",
-    "name": "Iron Hatchet",
+    "name": "Hunter Chopper",
     "rarity": "common",
     "type": "axe",
     "stat": "atk",
-    "base_stat": 5,
-    "image": "weapons/common/axes/iron_hatchet02.png"
+    "base_stat": 4,
+    "image": "weapons/common/axes/hunter_chopper02.png"
   },
   {
     "id": "common_axe_004",
+    "name": "Stone Splitter",
+    "rarity": "common",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 2,
+    "image": "weapons/common/axes/stone_splitter001.png"
+  },
+  {
+    "id": "common_axe_005",
     "name": "Stone Hatchet",
     "rarity": "common",
     "type": "axe",
     "stat": "atk",
     "base_stat": 2,
-    "image": "weapons/common/axes/stone_hatchet02.png"
+    "image": "weapons/common/axes/stone_hatchet01.png"
+  },
+  {
+    "id": "common_bow_001",
+    "name": "Curved Bow",
+    "rarity": "common",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 3,
+    "image": "weapons/common/bows/curved_bow.png"
+  },
+  {
+    "id": "common_bow_002",
+    "name": "Double Bow",
+    "rarity": "common",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/bows/double_bow.png"
+  },
+  {
+    "id": "common_bow_003",
+    "name": "Flat Bow",
+    "rarity": "common",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 3,
+    "image": "weapons/common/bows/flat_bow.png"
+  },
+  {
+    "id": "common_bow_004",
+    "name": "Hunter Recurve",
+    "rarity": "common",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/bows/hunter_recurve01.png"
+  },
+  {
+    "id": "common_bow_005",
+    "name": "Stone Greatbow",
+    "rarity": "common",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/bows/stone_greatbow001.png"
+  },
+  {
+    "id": "common_bow_006",
+    "name": "Wooden Shortbow",
+    "rarity": "common",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 2,
+    "image": "weapons/common/bows/wooden_shortbow01.png"
+  },
+  {
+    "id": "common_polearm_001",
+    "name": "Naginata",
+    "rarity": "common",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/polearms/naginata.png"
+  },
+  {
+    "id": "common_polearm_002",
+    "name": "Rookie Lance",
+    "rarity": "common",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 2,
+    "image": "weapons/common/polearms/rookie_lance02.png"
+  },
+  {
+    "id": "common_polearm_003",
+    "name": "Scythe",
+    "rarity": "common",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/polearms/scythe.png"
+  },
+  {
+    "id": "common_polearm_004",
+    "name": "Stone Halberd",
+    "rarity": "common",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/polearms/stone_halberd001.png"
+  },
+  {
+    "id": "common_polearm_005",
+    "name": "Trident",
+    "rarity": "common",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 4,
+    "image": "weapons/common/polearms/trident.png"
+  },
+  {
+    "id": "common_polearm_006",
+    "name": "Wooden Spear",
+    "rarity": "common",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 2,
+    "image": "weapons/common/polearms/wooden_spear01.png"
   },
   {
     "id": "rare_sword_001",
@@ -118,12 +244,93 @@
   },
   {
     "id": "rare_sword_003",
-    "name": "NEW",
+    "name": "Iron Sword",
     "rarity": "rare",
     "type": "sword",
     "stat": "atk",
-    "base_stat": 0,
+    "base_stat": 5,
     "image": "weapons/rare/swords/iron_sword01.png"
+  },
+  {
+    "id": "rare_axe_001",
+    "name": "Iron Hatchet",
+    "rarity": "rare",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 5,
+    "image": "weapons/rare/axes/iron_hatchet01.png"
+  },
+  {
+    "id": "rare_axe_002",
+    "name": "Iron Splitter",
+    "rarity": "rare",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 6,
+    "image": "weapons/rare/axes/iron_splitter001.png"
+  },
+  {
+    "id": "rare_axe_003",
+    "name": "Warrior Chopper",
+    "rarity": "rare",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 7,
+    "image": "weapons/rare/axes/warrior_chopper02.png"
+  },
+  {
+    "id": "rare_bow_001",
+    "name": "Iron Greatbow",
+    "rarity": "rare",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 6,
+    "image": "weapons/rare/bows/iron_greatbow001.png"
+  },
+  {
+    "id": "rare_bow_002",
+    "name": "Master Recurve",
+    "rarity": "rare",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 7,
+    "image": "weapons/rare/bows/master_recurve02.png"
+  },
+  {
+    "id": "rare_bow_003",
+    "name": "Steel Shortbow",
+    "rarity": "rare",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 6,
+    "image": "weapons/rare/bows/steel_shortbow01.png"
+  },
+  {
+    "id": "rare_polearm_001",
+    "name": "Iron Halberd",
+    "rarity": "rare",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 6,
+    "image": "weapons/rare/polearms/iron_halberd001.png"
+  },
+  {
+    "id": "rare_polearm_002",
+    "name": "Iron Spear",
+    "rarity": "rare",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 6,
+    "image": "weapons/rare/polearms/iron_spear01.png"
+  },
+  {
+    "id": "rare_polearm_003",
+    "name": "Knight Lance",
+    "rarity": "rare",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 7,
+    "image": "weapons/rare/polearms/knight_lance02.png"
   },
   {
     "id": "epic_sword_001",
@@ -144,6 +351,33 @@
     "image": "weapons/epic/swords/heros_blade002.png"
   },
   {
+    "id": "epic_axe_001",
+    "name": "Diamond Splitter",
+    "rarity": "epic",
+    "type": "axe",
+    "stat": "atk",
+    "base_stat": 10,
+    "image": "weapons/epic/axes/diamond_splitter001.png"
+  },
+  {
+    "id": "epic_bow_001",
+    "name": "Crystal Greatbow",
+    "rarity": "epic",
+    "type": "bow",
+    "stat": "atk",
+    "base_stat": 10,
+    "image": "weapons/epic/bows/crystal_greatbow001.png"
+  },
+  {
+    "id": "epic_polearm_001",
+    "name": "Diamond Halberd",
+    "rarity": "epic",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 10,
+    "image": "weapons/epic/polearms/diamond_halberd001.png"
+  },
+  {
     "id": "legendary_sword_001",
     "name": "Prototype Dragon",
     "rarity": "legendary",
@@ -160,5 +394,14 @@
     "stat": "atk",
     "base_stat": 15,
     "image": "weapons/legendary/swords/mythical_feather.png"
+  },
+  {
+    "id": "legendary_polearm_001",
+    "name": "Sun God Glaive",
+    "rarity": "legendary",
+    "type": "polearm",
+    "stat": "atk",
+    "base_stat": 16,
+    "image": "weapons/legendary/polearms/sun_god_glaive.png"
   }
 ]
