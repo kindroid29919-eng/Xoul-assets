@@ -1,1 +1,2 @@
 - [Weapon metadata inclusion](weapon-path-migration.md) — keep asset metadata limited to user-approved weapons; add defensive and HP assets separately.
+- [Weapon Generator tool](weapon-generator-tool.md) — Node CLI at scripts/weapon-generator/; generates weapons.json from folder paths; config in config.json.

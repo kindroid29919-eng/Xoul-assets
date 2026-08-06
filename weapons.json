@@ -1,0 +1,524 @@
+[
+  {
+    "id": "double_axe",
+    "name": "Double Axe",
+    "rarity": "common",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 2,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/common/double_axe.png"
+  },
+  {
+    "id": "hook_axe",
+    "name": "Hook Axe",
+    "rarity": "common",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 4,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/common/hook_axe.png"
+  },
+  {
+    "id": "hunter_chopper02",
+    "name": "Hunter Chopper",
+    "rarity": "common",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 4,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/common/hunter_chopper02.png"
+  },
+  {
+    "id": "stone_hatchet01",
+    "name": "Stone Hatchet",
+    "rarity": "common",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 4,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/common/stone_hatchet01.png"
+  },
+  {
+    "id": "stone_splitter001",
+    "name": "Stone Splitter",
+    "rarity": "common",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 2,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/common/stone_splitter001.png"
+  },
+  {
+    "id": "curved_bow",
+    "name": "Curved Bow",
+    "rarity": "common",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 2,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/common/curved_bow.png"
+  },
+  {
+    "id": "double_bow",
+    "name": "Double Bow",
+    "rarity": "common",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 4,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/common/double_bow.png"
+  },
+  {
+    "id": "flat_bow",
+    "name": "Flat Bow",
+    "rarity": "common",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/common/flat_bow.png"
+  },
+  {
+    "id": "hunter_recurve01",
+    "name": "Hunter Recurve",
+    "rarity": "common",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 2,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/common/hunter_recurve01.png"
+  },
+  {
+    "id": "stone_greatbow001",
+    "name": "Stone Greatbow",
+    "rarity": "common",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 2,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/common/stone_greatbow001.png"
+  },
+  {
+    "id": "wooden_shortbow01",
+    "name": "Wooden Shortbow",
+    "rarity": "common",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 2,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/common/wooden_shortbow01.png"
+  },
+  {
+    "id": "naginata",
+    "name": "Naginata",
+    "rarity": "common",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/common/naginata.png"
+  },
+  {
+    "id": "rookie_lance02",
+    "name": "Rookie Lance",
+    "rarity": "common",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/common/rookie_lance02.png"
+  },
+  {
+    "id": "scythe",
+    "name": "Scythe",
+    "rarity": "common",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/common/scythe.png"
+  },
+  {
+    "id": "stone_halberd001",
+    "name": "Stone Halberd",
+    "rarity": "common",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 4,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/common/stone_halberd001.png"
+  },
+  {
+    "id": "trident",
+    "name": "Trident",
+    "rarity": "common",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/common/trident.png"
+  },
+  {
+    "id": "wooden_spear01",
+    "name": "Wooden Spear",
+    "rarity": "common",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/common/wooden_spear01.png"
+  },
+  {
+    "id": "apprentice_guard01",
+    "name": "Apprentice Guard",
+    "rarity": "common",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/common/apprentice_guard01.png"
+  },
+  {
+    "id": "buckler_sheild",
+    "name": "Buckler Sheild",
+    "rarity": "common",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/common/buckler_sheild.png"
+  },
+  {
+    "id": "novice_defender02",
+    "name": "Novice Defender",
+    "rarity": "common",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/common/novice_defender02.png"
+  },
+  {
+    "id": "rust_wall002",
+    "name": "Rust Wall",
+    "rarity": "common",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/common/rust_wall002.png"
+  },
+  {
+    "id": "spike_sheild",
+    "name": "Spike Sheild",
+    "rarity": "common",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 2,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/common/spike_sheild.png"
+  },
+  {
+    "id": "wooden_barrier001",
+    "name": "Wooden Barrier",
+    "rarity": "common",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/common/wooden_barrier001.png"
+  },
+  {
+    "id": "basic_sword",
+    "name": "Basic Sword",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/basic_sword.png"
+  },
+  {
+    "id": "butchers_blade002",
+    "name": "Butchers Blade",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/butchers_blade002.png"
+  },
+  {
+    "id": "curved_sword",
+    "name": "Curved Sword",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/curved_sword.png"
+  },
+  {
+    "id": "long_sword",
+    "name": "Long Sword",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/long_sword.png"
+  },
+  {
+    "id": "stone_blade001",
+    "name": "Stone Blade",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/stone_blade001.png"
+  },
+  {
+    "id": "twin_sword",
+    "name": "Twin Sword",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/twin_sword.png"
+  },
+  {
+    "id": "wooden_stick",
+    "name": "Wooden Stick",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 1,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/wooden_stick.png"
+  },
+  {
+    "id": "wooden_sword01",
+    "name": "Wooden Sword",
+    "rarity": "common",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 3,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/common/wooden_sword01.png"
+  },
+  {
+    "id": "iron_hatchet01",
+    "name": "Iron Hatchet",
+    "rarity": "rare",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 5,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/rare/iron_hatchet01.png"
+  },
+  {
+    "id": "iron_splitter001",
+    "name": "Iron Splitter",
+    "rarity": "rare",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 5,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/rare/iron_splitter001.png"
+  },
+  {
+    "id": "warrior_chopper02",
+    "name": "Warrior Chopper",
+    "rarity": "rare",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 6,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/rare/warrior_chopper02.png"
+  },
+  {
+    "id": "iron_greatbow001",
+    "name": "Iron Greatbow",
+    "rarity": "rare",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/rare/iron_greatbow001.png"
+  },
+  {
+    "id": "master_recurve02",
+    "name": "Master Recurve",
+    "rarity": "rare",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/rare/master_recurve02.png"
+  },
+  {
+    "id": "steel_shortbow01",
+    "name": "Steel Shortbow",
+    "rarity": "rare",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 5,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/rare/steel_shortbow01.png"
+  },
+  {
+    "id": "iron_halberd001",
+    "name": "Iron Halberd",
+    "rarity": "rare",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 8,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/rare/iron_halberd001.png"
+  },
+  {
+    "id": "iron_spear01",
+    "name": "Iron Spear",
+    "rarity": "rare",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 5,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/rare/iron_spear01.png"
+  },
+  {
+    "id": "knight_lance02",
+    "name": "Knight Lance",
+    "rarity": "rare",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/rare/knight_lance02.png"
+  },
+  {
+    "id": "bronze_barrier001",
+    "name": "Bronze Barrier",
+    "rarity": "rare",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 5,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/rare/bronze_barrier001.png"
+  },
+  {
+    "id": "knight_defender02",
+    "name": "Knight Defender",
+    "rarity": "rare",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/rare/knight_defender02.png"
+  },
+  {
+    "id": "master_guard01",
+    "name": "Master Guard",
+    "rarity": "rare",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 5,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/rare/master_guard01.png"
+  },
+  {
+    "id": "steel_wall002",
+    "name": "Steel Wall",
+    "rarity": "rare",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 6,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/rare/steel_wall002.png"
+  },
+  {
+    "id": "iron_sword01",
+    "name": "Iron Sword",
+    "rarity": "rare",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/rare/iron_sword01.png"
+  },
+  {
+    "id": "steel_blade001",
+    "name": "Steel Blade",
+    "rarity": "rare",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/rare/steel_blade001.png"
+  },
+  {
+    "id": "warriors_blade002",
+    "name": "Warriors Blade",
+    "rarity": "rare",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/rare/warriors_blade002.png"
+  },
+  {
+    "id": "diamond_splitter001",
+    "name": "Diamond Splitter",
+    "rarity": "epic",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 9,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/epic/diamond_splitter001.png"
+  },
+  {
+    "id": "crystal_greatbow001",
+    "name": "Crystal Greatbow",
+    "rarity": "epic",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 10,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/epic/crystal_greatbow001.png"
+  },
+  {
+    "id": "diamond_halberd001",
+    "name": "Diamond Halberd",
+    "rarity": "epic",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 11,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/epic/diamond_halberd001.png"
+  },
+  {
+    "id": "aegis_wall002",
+    "name": "Aegis Wall",
+    "rarity": "epic",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 10,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/epic/aegis_wall002.png"
+  },
+  {
+    "id": "obsidian_barrier001",
+    "name": "Obsidian Barrier",
+    "rarity": "epic",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 10,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/epic/obsidian_barrier001.png"
+  },
+  {
+    "id": "diamond_blade001",
+    "name": "Diamond Blade",
+    "rarity": "epic",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 10,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/epic/diamond_blade001.png"
+  },
+  {
+    "id": "heros_blade002",
+    "name": "Heros Blade",
+    "rarity": "epic",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 10,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/epic/heros_blade002.png"
+  },
+  {
+    "id": "sun_god_glaive",
+    "name": "Sun God Glaive",
+    "rarity": "legendary",
+    "weaponType": "polearm",
+    "baseStat": "atk",
+    "baseStatValue": 17,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/polearms/legendary/sun_god_glaive.png"
+  },
+  {
+    "id": "phoenix_sheild",
+    "name": "Phoenix Sheild",
+    "rarity": "legendary",
+    "weaponType": "shield",
+    "baseStat": "def",
+    "baseStatValue": 13,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/def/shields/legendary/phoenix_sheild.png"
+  },
+  {
+    "id": "mythical_feather",
+    "name": "Mythical Feather",
+    "rarity": "legendary",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 18,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/legendary/mythical_feather.png"
+  },
+  {
+    "id": "prototype_dragon",
+    "name": "Prototype Dragon",
+    "rarity": "legendary",
+    "weaponType": "sword",
+    "baseStat": "atk",
+    "baseStatValue": 14,
+    "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/legendary/prototype_dragon.png"
+  }
+]

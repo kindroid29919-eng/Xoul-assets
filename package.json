@@ -1,0 +1,15 @@
+{
+  "name": "xoul-assets",
+  "version": "1.0.0",
+  "description": "Xoul game asset repository with automated weapon metadata tooling",
+  "scripts": {
+    "weapons": "node scripts/weapon-generator/index.js",
+    "weapons:scan": "node scripts/weapon-generator/index.js --scan",
+    "weapons:rebuild": "node scripts/weapon-generator/index.js --rebuild",
+    "weapons:validate": "node scripts/weapon-generator/index.js --validate"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.6"
+  }
+}
