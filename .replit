@@ -1,6 +1,7 @@
 modules = ["nodejs-20"]
 [nix]
 channel = "stable-25_05"
+packages = ["nix-output-monitor"]
 
 [agent]
 expertMode = true

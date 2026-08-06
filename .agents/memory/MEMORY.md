@@ -1,0 +1,1 @@
+- [Weapon metadata inclusion](weapon-path-migration.md) — keep asset metadata limited to user-approved weapons; add defensive and HP assets separately.
