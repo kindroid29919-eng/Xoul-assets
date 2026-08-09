@@ -297,6 +297,24 @@
     "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/rare/iron_splitter001.png"
   },
   {
+    "id": "paladin_mail002",
+    "name": "Paladin Mail",
+    "rarity": "rare",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 5,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/axes/rare/paladin_mail002.png"
+  },
+  {
+    "id": "titanium_plate001",
+    "name": "Titanium Plate",
+    "rarity": "rare",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 7,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/axes/rare/titanium_plate001.png"
+  },
+  {
     "id": "warrior_chopper02",
     "name": "Warrior Chopper",
     "rarity": "rare",
@@ -423,6 +441,15 @@
     "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/swords/rare/warriors_blade002.png"
   },
   {
+    "id": "cloth_vest01",
+    "name": "Cloth Vest",
+    "rarity": "epic",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 12,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/axes/epic/cloth_vest01.png"
+  },
+  {
     "id": "diamond_splitter001",
     "name": "Diamond Splitter",
     "rarity": "epic",
@@ -432,6 +459,33 @@
     "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/axes/epic/diamond_splitter001.png"
   },
   {
+    "id": "iron_plate001",
+    "name": "Iron Plate",
+    "rarity": "epic",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 11,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/axes/epic/iron_plate001.png"
+  },
+  {
+    "id": "peasent_mail002",
+    "name": "Peasent Mail",
+    "rarity": "epic",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 9,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/axes/epic/peasent_mail002.png"
+  },
+  {
+    "id": "rookie_scout02",
+    "name": "Rookie Scout",
+    "rarity": "epic",
+    "weaponType": "axe",
+    "baseStat": "atk",
+    "baseStatValue": 10,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/axes/epic/rookie_scout02.png"
+  },
+  {
     "id": "crystal_greatbow001",
     "name": "Crystal Greatbow",
     "rarity": "epic",
@@ -439,6 +493,42 @@
     "baseStat": "atk",
     "baseStatValue": 10,
     "image": "https://raw.githubusercontent.com/your-username/xoul-assets/main/weapons/atk/bows/epic/crystal_greatbow001.png"
+  },
+  {
+    "id": "knight_mail002",
+    "name": "Knight Mail",
+    "rarity": "epic",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 12,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/bows/epic/knight_mail002.png"
+  },
+  {
+    "id": "leather_vest01",
+    "name": "Leather Vest",
+    "rarity": "epic",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 13,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/bows/epic/leather_vest01.png"
+  },
+  {
+    "id": "steel_plate001",
+    "name": "Steel Plate",
+    "rarity": "epic",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 13,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/bows/epic/steel_plate001.png"
+  },
+  {
+    "id": "veteran_scout02",
+    "name": "Veteran Scout",
+    "rarity": "epic",
+    "weaponType": "bow",
+    "baseStat": "atk",
+    "baseStatValue": 9,
+    "image": "https://raw.githubusercontent.com/kindroid29919-en/Xoul-assets/main/weapons/atk/bows/epic/veteran_scout02.png"
   },
   {
     "id": "diamond_halberd001",
